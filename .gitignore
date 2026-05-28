@@ -217,7 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
-# file hide
+# hide files with these extensions
 *.csv
 *.xlsx
+*.docx
